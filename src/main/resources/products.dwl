@@ -6,8 +6,5 @@ Product @(pid:payload.productId):{
 	pprice:payload.originalPrice,	
     offer:{
 	     poffer:payload.offer.offerPrice    		
-},
-	images: {
-		img1:payload.images
-	}
+}
 }
